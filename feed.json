@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HeiKe-Tom-blog",
+    "description": "",
+    "home_page_url": "https://HeiKe-Tom.github.io",
+    "feed_url": "https://HeiKe-Tom.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HeiKe-Tom"
+    },
+    "items": [
+    ]
+}

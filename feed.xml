@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>HeiKe-Tom-blog</title>
+    <link href="https://HeiKe-Tom.github.io/feed.xml" rel="self" />
+    <link href="https://HeiKe-Tom.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>HeiKe-Tom</name>
+    </author>
+    <id>https://HeiKe-Tom.github.io</id>
+
+</feed>
